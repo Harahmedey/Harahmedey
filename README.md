@@ -6,7 +6,7 @@ I'm a Data Scientist. I am passionate about learning and building new stuff.
 
 - 😊 Pronouns: She/Her
 - 💡 Fun fact: I'm currently a Fellow at the Woman Techster Fellowship at Tech4dev Class of 2023.
-- 🌱 I’m currently learning JavaScript, Nodejs and Python.
+- 🌱 Tools that I use are Python, SQL, Power BI, Machine learning libraries 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Scientist (Intern or Junior level).
 - 📫 You can contact me by adebesinaramide@gmail.com
