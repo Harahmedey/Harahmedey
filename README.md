@@ -1,14 +1,14 @@
 # Hello there; welcome 👋🏾
 
-I'm a Software Engineer and a Data Scientist. I am passionate about learning and building new stuff.
+I'm a Data Scientist. I am passionate about learning and building new stuff.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm currently a Fellow at the Woman Techster Fellowship at Tech4dev Class of 2023.
 - 🌱 I’m currently learning JavaScript, Nodejs and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Data Scientist (Intern or Junior level).
+- 💼 Job interests: Data Scientist (Intern or Junior level).
 - 📫 You can contact me by adebesinaramide@gmail.com
 
 ---
