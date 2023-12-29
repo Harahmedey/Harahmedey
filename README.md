@@ -1,6 +1,7 @@
-# Hi I'm Aramide 
+# Hi I'm Aramide 👋
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40hara__myde-blue)](https://twitter.com/hara__myde)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aramide-adebesin/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adebesinaramide)
 
 # Languages and Tools
@@ -15,7 +16,7 @@ I'm a Machine Learning Engineer. I am passionate about learning and building new
 
 - 😊 Pronouns: She/Her
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Data Scientist/Machine LEaerning Engineer (Intern or Junior level).
+- 💼 Job interests: Data Scientist/Machine Learning Engineer (Intern or Junior level).
 - 📫 You can contact me by adebesinaramide@gmail.com
 
 ---
