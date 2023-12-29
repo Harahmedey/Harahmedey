@@ -1,14 +1,12 @@
 # Hi I'm Aramide
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40hara__myde-blue)](https://twitter.com/hara__myde)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40aramide-adebesin/-blue)](https://aramide-adebesin/)
 
 I'm a Data Scientist. I am passionate about learning and building new stuff.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently a Fellow at the Woman Techster Fellowship at Tech4dev Class of 2023.
 - 🌱 Tools that I use are Python, SQL, Power BI, Machine learning libraries 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Scientist (Intern or Junior level).
