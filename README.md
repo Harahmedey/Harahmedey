@@ -1,4 +1,7 @@
-# Hello there; welcome 👋🏾
+# Hi I'm Aramide
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40hara__myde-blue)](https://twitter.com/hara__myde)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40https://www.linkedin.com/in/aramide-adebesin/-blue)](https://www.linkedin.com/in/https://www.linkedin.com/in/aramide-adebesin/)
 
 I'm a Data Scientist. I am passionate about learning and building new stuff.
 
