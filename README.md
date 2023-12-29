@@ -1,6 +1,6 @@
 # Hi I'm Aramide 👋
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/hara__myde.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/hara__myde)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/hara__myde.svg?style=social&label=Follow%20%40hara__myde)](https://twitter.com/hara__myde)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aramide-adebesin/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adebesinaramide)
 
