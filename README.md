@@ -1,15 +1,21 @@
-# Hi I'm Aramide
+# Hi I'm Aramide 
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40hara__myde-blue)](https://twitter.com/hara__myde)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adebesinaramide)
 
-I'm a Data Scientist. I am passionate about learning and building new stuff.
+# Languages and Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+I'm a Machine Learning Engineer. I am passionate about learning and building new stuff.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 🌱 Tools that I use are Python, SQL, Power BI, Machine learning libraries 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Data Scientist (Intern or Junior level).
+- 💼 Job interests: Data Scientist/Machine LEaerning Engineer (Intern or Junior level).
 - 📫 You can contact me by adebesinaramide@gmail.com
 
 ---
